@@ -1,0 +1,505 @@
+Simon Chong Kai Yuen
+Bachelor of Art
+Prof.Dr. Lizawati
+3.50
+ 
+Clive Lai Yi Cheng
+Bachelor of Science
+Dr.Ali Abu
+3.33
+ 
+Chen Zhun Siang
+Bachelor of Language
+Dr. Lee Chong Wei
+3.79
+ 
+Ahmad Faris
+Bachelor of Business
+Dr. Ramli Ali
+3.00
+ 
+Amirrudin Fabu
+Bachelor of Civil
+Dr. Siti Haizan
+3.65
+ 
+Zairul Nika
+Bachelor of Mechanical
+Dr. Zaihan Awang
+3.99
+ 
+Lai Xiao Fang
+Bachelor of EEE
+Prof.Dr. Niza
+4.00
+ 
+Simon Chong Kai Yuen
+Bachelor of Art
+Prof.Dr. Lizawati
+3.50
+ 
+Clive Lai Yi Cheng
+Bachelor of Science
+Dr.Ali Abu
+3.33
+ 
+Chen Zhun Siang
+Bachelor of Language
+Dr. Lee Chong Wei
+3.79
+ 
+Ahmad Faris
+Bachelor of Business
+Dr. Ramli Ali
+3.00
+ 
+Amirrudin Fabu
+Bachelor of Civil
+Dr. Siti Haizan
+3.65
+ 
+Zairul Nika
+Bachelor of Mechanical
+Dr. Zaihan Awang
+3.99
+ 
+Lai Xiao Fang
+Bachelor of EEE
+Prof.Dr. Niza
+4.00
+ 
+Simon Chong Kai Yuen
+Bachelor of Art
+Prof.Dr. Lizawati
+3.50
+ 
+Clive Lai Yi Cheng
+Bachelor of Science
+Dr.Ali Abu
+3.33
+ 
+Chen Zhun Siang
+Bachelor of Language
+Dr. Lee Chong Wei
+3.79
+ 
+Ahmad Faris
+Bachelor of Business
+Dr. Ramli Ali
+3.00
+ 
+Amirrudin Fabu
+Bachelor of Civil
+Dr. Siti Haizan
+3.65
+ 
+Zairul Nika
+Bachelor of Mechanical
+Dr. Zaihan Awang
+3.99
+ 
+Lai Xiao Fang
+Bachelor of EEE
+Prof.Dr. Niza
+4.00
+ 
+Simon Chong Kai Yuen
+Bachelor of Art
+Prof.Dr. Lizawati
+3.50
+ 
+Clive Lai Yi Cheng
+Bachelor of Science
+Dr.Ali Abu
+3.33
+ 
+Chen Zhun Siang
+Bachelor of Language
+Dr. Lee Chong Wei
+3.79
+ 
+Ahmad Faris
+Bachelor of Business
+Dr. Ramli Ali
+3.00
+ 
+Amirrudin Fabu
+Bachelor of Civil
+Dr. Siti Haizan
+3.65
+ 
+Zairul Nika
+Bachelor of Mechanical
+Dr. Zaihan Awang
+3.99
+ 
+Lai Xiao Fang
+Bachelor of EEE
+Prof.Dr. Niza
+4.00
+ 
+Simon Chong Kai Yuen
+Bachelor of Art
+Prof.Dr. Lizawati
+3.50
+ 
+Clive Lai Yi Cheng
+Bachelor of Science
+Dr.Ali Abu
+3.33
+ 
+Chen Zhun Siang
+Bachelor of Language
+Dr. Lee Chong Wei
+3.79
+ 
+Ahmad Faris
+Bachelor of Business
+Dr. Ramli Ali
+3.00
+ 
+Amirrudin Fabu
+Bachelor of Civil
+Dr. Siti Haizan
+3.65
+ 
+Zairul Nika
+Bachelor of Mechanical
+Dr. Zaihan Awang
+3.99
+ 
+Lai Xiao Fang
+Bachelor of EEE
+Prof.Dr. Niza
+4.00
+ 
+Simon Chong Kai Yuen
+Bachelor of Art
+Prof.Dr. Lizawati
+3.50
+ 
+Clive Lai Yi Cheng
+Bachelor of Science
+Dr.Ali Abu
+3.33
+ 
+Chen Zhun Siang
+Bachelor of Language
+Dr. Lee Chong Wei
+3.79
+ 
+Ahmad Faris
+Bachelor of Business
+Dr. Ramli Ali
+3.00
+ 
+Amirrudin Fabu
+Bachelor of Civil
+Dr. Siti Haizan
+3.65
+ 
+Zairul Nika
+Bachelor of Mechanical
+Dr. Zaihan Awang
+3.99
+ 
+Lai Xiao Fang
+Bachelor of EEE
+Prof.Dr. Niza
+4.00
+ 
+Simon Chong Kai Yuen
+Bachelor of Art
+Prof.Dr. Lizawati
+3.50
+ 
+Clive Lai Yi Cheng
+Bachelor of Science
+Dr.Ali Abu
+3.33
+ 
+Chen Zhun Siang
+Bachelor of Language
+Dr. Lee Chong Wei
+3.79
+ 
+Ahmad Faris
+Bachelor of Business
+Dr. Ramli Ali
+3.00
+ 
+Amirrudin Fabu
+Bachelor of Civil
+Dr. Siti Haizan
+3.65
+ 
+Zairul Nika
+Bachelor of Mechanical
+Dr. Zaihan Awang
+3.99
+ 
+Lai Xiao Fang
+Bachelor of EEE
+Prof.Dr. Niza
+4.00
+ 
+Simon Chong Kai Yuen
+Bachelor of Art
+Prof.Dr. Lizawati
+3.50
+ 
+Clive Lai Yi Cheng
+Bachelor of Science
+Dr.Ali Abu
+3.33
+ 
+Chen Zhun Siang
+Bachelor of Language
+Dr. Lee Chong Wei
+3.79
+ 
+Ahmad Faris
+Bachelor of Business
+Dr. Ramli Ali
+3.00
+ 
+Amirrudin Fabu
+Bachelor of Civil
+Dr. Siti Haizan
+3.65
+ 
+Zairul Nika
+Bachelor of Mechanical
+Dr. Zaihan Awang
+3.99
+ 
+Lai Xiao Fang
+Bachelor of EEE
+Prof.Dr. Niza
+4.00
+ 
+Simon Chong Kai Yuen
+Bachelor of Art
+Prof.Dr. Lizawati
+3.50
+ 
+Clive Lai Yi Cheng
+Bachelor of Science
+Dr.Ali Abu
+3.33
+ 
+Chen Zhun Siang
+Bachelor of Language
+Dr. Lee Chong Wei
+3.79
+ 
+Ahmad Faris
+Bachelor of Business
+Dr. Ramli Ali
+3.00
+ 
+Amirrudin Fabu
+Bachelor of Civil
+Dr. Siti Haizan
+3.65
+ 
+Zairul Nika
+Bachelor of Mechanical
+Dr. Zaihan Awang
+3.99
+ 
+Lai Xiao Fang
+Bachelor of EEE
+Prof.Dr. Niza
+4.00
+ 
+Simon Chong Kai Yuen
+Bachelor of Art
+Prof.Dr. Lizawati
+3.50
+ 
+Clive Lai Yi Cheng
+Bachelor of Science
+Dr.Ali Abu
+3.33
+ 
+Chen Zhun Siang
+Bachelor of Language
+Dr. Lee Chong Wei
+3.79
+ 
+Ahmad Faris
+Bachelor of Business
+Dr. Ramli Ali
+3.00
+ 
+Amirrudin Fabu
+Bachelor of Civil
+Dr. Siti Haizan
+3.65
+ 
+Zairul Nika
+Bachelor of Mechanical
+Dr. Zaihan Awang
+3.99
+ 
+Lai Xiao Fang
+Bachelor of EEE
+Prof.Dr. Niza
+4.00
+ 
+Simon Chong Kai Yuen
+Bachelor of Art
+Prof.Dr. Lizawati
+3.50
+ 
+Clive Lai Yi Cheng
+Bachelor of Science
+Dr.Ali Abu
+3.33
+ 
+Chen Zhun Siang
+Bachelor of Language
+Dr. Lee Chong Wei
+3.79
+ 
+Ahmad Faris
+Bachelor of Business
+Dr. Ramli Ali
+3.00
+ 
+Amirrudin Fabu
+Bachelor of Civil
+Dr. Siti Haizan
+3.65
+ 
+Zairul Nika
+Bachelor of Mechanical
+Dr. Zaihan Awang
+3.99
+ 
+Lai Xiao Fang
+Bachelor of EEE
+Prof.Dr. Niza
+4.00
+
+Simon Chong Kai Yuen
+Bachelor of Art
+Prof.Dr. Lizawati
+3.50
+ 
+Clive Lai Yi Cheng
+Bachelor of Science
+Dr.Ali Abu
+3.33
+ 
+Chen Zhun Siang
+Bachelor of Language
+Dr. Lee Chong Wei
+3.79
+ 
+Ahmad Faris
+Bachelor of Business
+Dr. Ramli Ali
+3.00
+ 
+Amirrudin Fabu
+Bachelor of Civil
+Dr. Siti Haizan
+3.65
+ 
+Zairul Nika
+Bachelor of Mechanical
+Dr. Zaihan Awang
+3.99
+ 
+Lai Xiao Fang
+Bachelor of EEE
+Prof.Dr. Niza
+4.00
+
+Simon Chong Kai Yuen
+Bachelor of Art
+Prof.Dr. Lizawati
+3.50
+ 
+Clive Lai Yi Cheng
+Bachelor of Science
+Dr.Ali Abu
+3.33
+ 
+Chen Zhun Siang
+Bachelor of Language
+Dr. Lee Chong Wei
+3.79
+ 
+Ahmad Faris
+Bachelor of Business
+Dr. Ramli Ali
+3.00
+ 
+Amirrudin Fabu
+Bachelor of Civil
+Dr. Siti Haizan
+3.65
+ 
+Zairul Nika
+Bachelor of Mechanical
+Dr. Zaihan Awang
+3.99
+ 
+Lai Xiao Fang
+Bachelor of EEE
+Prof.Dr. Niza
+4.00
+
+Simon Chong Kai Yuen
+Bachelor of Art
+Prof.Dr. Lizawati
+3.50
+ 
+Clive Lai Yi Cheng
+Bachelor of Science
+Dr.Ali Abu
+3.33
+ 
+Chen Zhun Siang
+Bachelor of Language
+Dr. Lee Chong Wei
+3.79
+ 
+Ahmad Faris
+Bachelor of Business
+Dr. Ramli Ali
+3.00
+ 
+Amirrudin Fabu
+Bachelor of Civil
+Dr. Siti Haizan
+3.65
+ 
+Zairul Nika
+Bachelor of Mechanical
+Dr. Zaihan Awang
+3.99
+ 
+Lai Xiao Fang
+Bachelor of EEE
+Prof.Dr. Niza
+4.00
+ 
+Simon Chong Kai Yuen
+Bachelor of Art
+Prof.Dr. Lizawati
+3.50
+ 
+Clive Lai Yi Cheng
+Bachelor of Science
+Dr.Ali Abu
+3.33
+ 
+Chen Zhun Siang
+Bachelor of Language
+Dr. Lee Chong Wei
+3.79
+ 

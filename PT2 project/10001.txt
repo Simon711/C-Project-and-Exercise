@@ -1,0 +1,25 @@
+
+========================== Receipt ==========================
+Receipt No: 10001
+
+Customer's name: simon
+Customer's address: UTM, K10, UB2
+Customer's contact: 0165879447
+
+No   Item                   Unit Price       Quantity      Sub Total
+
+1    Steak                  10               10            100
+
+============================================================
+                                       TOTAL:     RM 100
+============================================================
+
+
+
+Estimate delivery time : 30 minutes after
+Thank you !!!!!
+
+Chentimon Restaurant,
+Taman University,
+Skudai 80990,
+Johor
